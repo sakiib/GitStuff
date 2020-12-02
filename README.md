@@ -1,4 +1,4 @@
-### Contains the stuff I'm learning on git & distributed version control.
+### COMMANDS.md contains the stuff I'm learning on git & distributed version control.
 
 ### Resources:
 **<i> Configure Git </i>**
