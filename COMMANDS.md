@@ -108,3 +108,11 @@ Git Command-Line Fundamentals
 | `git branch -d <name of the branch>` | this deletes is locally |
 | `git branch -a` | check the repo branches |
 | `git push origin --delete <name of the branch>` | this deletes it from the repo |
+
+### Inspection & comparison:
+| Command | Description |
+| ------- | ----------- |
+| `git log --summary` | view detailed changes |
+| `git log --oneline` | view detailed breifly |
+| `git diff [source branch] [target branch]` | preview changes before merging |
+
