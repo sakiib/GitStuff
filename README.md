@@ -8,7 +8,7 @@
 * [Pro Git Book](https://git-scm.com/book/en/v2)
 
 **<i> Video Tutorial </i>**
-* [Sajib Ahmed](https://www.youtube.com/watch?v=7orfDC1ALvs)
+* [Git tut by Sajib Khan](https://www.youtube.com/watch?v=7orfDC1ALvs)
 * [Command-Line Fundamentals by Corey schafer](https://www.youtube.com/watch?v=HVsySz-h9r4)
 * [Fixing Common Mistakes and Undoing Bad Commits by Corey Schafer](https://www.youtube.com/watch?v=FdZecVxzJbk)
 * [Using the Stash command by Corey Schafer](https://www.youtube.com/watch?v=KLEDKgMmbBI)
