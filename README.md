@@ -14,5 +14,5 @@
 * [Using the Stash command by Corey Schafer](https://www.youtube.com/watch?v=KLEDKgMmbBI)
 
 **<i> Additional </i>**
-* [Git challenges - visualization](https://try.github.io/)
-* [Git branching](https://learngitbranching.js.org/)
+* [Git challenges](https://try.github.io/)
+* [Git branching - visualization](https://learngitbranching.js.org/)
