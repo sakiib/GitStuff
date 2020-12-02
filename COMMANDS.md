@@ -129,4 +129,7 @@ Git Command-Line Fundamentals
 | `git log --summary` | view detailed changes |
 | `git log --oneline` | view detailed breifly |
 | `git diff [source branch] [target branch]` | preview changes before merging |
+| `git log --stat` | ome abbreviated stats for each commit |
+| `git log --pretty=oneline` | changes the log output to formats other than the default |
+| `git log --pretty=format:"%h - %an, %ar : %s"` | allows you to specify your own log output format |
 
