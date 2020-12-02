@@ -132,4 +132,5 @@ Git Command-Line Fundamentals
 | `git log --stat` | ome abbreviated stats for each commit |
 | `git log --pretty=oneline` | changes the log output to formats other than the default |
 | `git log --pretty=format:"%h - %an, %ar : %s"` | allows you to specify your own log output format |
+| `git log --since=2.weeks` | limiting log output using --since, --until, --author |
 
