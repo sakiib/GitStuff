@@ -12,3 +12,7 @@
 * [Command-Line Fundamentals by Corey schafer](https://www.youtube.com/watch?v=HVsySz-h9r4)
 * [Fixing Common Mistakes and Undoing Bad Commits by Corey Schafer](https://www.youtube.com/watch?v=FdZecVxzJbk)
 * [Using the Stash command by Corey Schafer](https://www.youtube.com/watch?v=KLEDKgMmbBI)
+
+**<i> Additional </i>**
+* [Git challenges](https://try.github.io/)
+* [Git branching](https://learngitbranching.js.org/)
