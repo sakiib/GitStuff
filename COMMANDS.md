@@ -101,3 +101,10 @@ Git Command-Line Fundamentals
 | `git branch --merged ` | see which branches are merged |
 | `git merge <name of the branch you want to merge>` | merge this branch to master branch |
 | `git push origin master` | push the changes to remote repo |
+
+### Delete a branch:
+| Command | Description |
+| ------- | ----------- |
+| `git branch -d <name of the branch>` | this deletes is locally |
+| `git branch -a` | check the repo branches |
+| `git push origin --delete <name of the branch>` | this deletes it from the repo |
