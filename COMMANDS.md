@@ -93,4 +93,11 @@ Git Command-Line Fundamentals
 | ------- | ----------- |
 | `git checkout <name of the branch>` | current head is moved to the branch |
 
-
+### Merge a branch:
+| Command | Description |
+| ------- | ----------- |
+| `git checkout master` | current head is moved to the master |
+| `git pull origin master` | remember to pull before pushing |
+| `git branch --merged ` | see which branches are merged |
+| `git merge <name of the branch you want to merge>` | merge this branch to master branch |
+| `git push origin master` | push the changes to remote repo |
