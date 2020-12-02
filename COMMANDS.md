@@ -104,6 +104,12 @@ Git Command-Line Fundamentals
 | ------- | ----------- |
 | `git checkout <name of the branch>` | current head is moved to the branch |
 
+### Create & Checkout a branch:
+
+| Command | Description |
+| ------- | ----------- |
+| `git checkout -b <name of the branch>` | created a branch & current head is moved to that branch |
+
 ### Merge a branch:
 
 | Command | Description |
