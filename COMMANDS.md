@@ -53,7 +53,7 @@ Git Command-Line Fundamentals
 
 | Command | Description |
 | ------- | ----------- |
-| `git log` | renders commit idx, authors, dates |
+| `git log` | renders commit idx, authors, dates (press q or z) to get out of it |
 
 ### Clone a remote repo:
 
