@@ -140,3 +140,10 @@ Git Command-Line Fundamentals
 | `git log --pretty=format:"%h - %an, %ar : %s"` | allows you to specify your own log output format |
 | `git log --since=2.weeks` | limiting log output using --since, --until, --author |
 
+### Renaming files
+
+| Command | Description |
+| ------- | ----------- |
+| `git mv <old-name> <new-name>` | renaming a file |
+
+
