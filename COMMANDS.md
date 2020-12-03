@@ -51,6 +51,7 @@ Git Command-Line Fundamentals
 | Command | Description |
 | ------- | ----------- |
 | `git commit -m "This is the commit message" ` | -m is used to add message |
+| `git commit -am "This is the commit message"` | we don't need to git add separately |
 
 ### Check log:
 
