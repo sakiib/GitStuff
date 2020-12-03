@@ -32,9 +32,11 @@ Git Command-Line Fundamentals
 
 | Command | Description |
 | ------- | ----------- |
-| `git add -A` | adds all of the files for commiting |
+| `git add -A` | adds all of the files for commiting "including deleted ones" |
 | `git add .` | adds all of the files for commiting |
+| `git add *` | adds all of the files for commiting |
 | `git add <filename>` | add specific file with the filename |
+| `git add *.<extension>` | add supports regular expressions |
 
 ### Remove files:
 
