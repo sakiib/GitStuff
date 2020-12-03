@@ -35,6 +35,7 @@ Git Command-Line Fundamentals
 | `git add -A` | adds all of the files for commiting "including deleted ones" |
 | `git add .` | adds all of the files for commiting |
 | `git add *` | adds all of the files for commiting |
+| `git add -all` | adds all of the files for commiting |
 | `git add <filename>` | add specific file with the filename |
 | `git add *.<extension>` | add supports regular expressions |
 
@@ -142,10 +143,17 @@ Git Command-Line Fundamentals
 | `git log --pretty=format:"%h - %an, %ar : %s"` | allows you to specify your own log output format |
 | `git log --since=2.weeks` | limiting log output using --since, --until, --author |
 
-### Renaming files
+### Renaming files:
 
 | Command | Description |
 | ------- | ----------- |
 | `git mv <old-name> <new-name>` | renaming a file |
 
+### Add, Rename, Remove, Replace remote url:
 
+| Command | Description |
+| ------- | ----------- |
+| `git remote add <short-name> <url>` | renaming a file with a short name |
+| `git remote rename <old-name> <new-name>` | renaming a remote file with new-name |
+| `git remote remove <short-name>` | removing url of a remote file |
+| `git remote set-url <short-name> <new.git.url>` | setting a short name for a remote url |
