@@ -158,3 +158,4 @@ Git Command-Line Fundamentals
 | `git remote rename <old-name> <new-name>` | renaming a remote file with new-name |
 | `git remote remove <short-name>` | removing url of a remote file |
 | `git remote set-url <short-name> <new.git.url>` | setting a short name for a remote url |
+| `git remote set-url origin <url>` | set a new remote origin link to the given url |
