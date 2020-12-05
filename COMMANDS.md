@@ -54,6 +54,7 @@ Git Command-Line Fundamentals
 | `git commit -m "This is the commit message" ` | -m is used to add message |
 | `git commit -am "This is the commit message"` | we don't need to git add separately |
 | `git commit -a` | to commit only the modified and deleted files |
+| `git commit --amend -m "new message"` | changes the last commits message & also the commit hash |
 
 ### Check log:
 
