@@ -38,6 +38,7 @@ Git Command-Line Fundamentals
 | `git add -all` | adds all of the files for commiting |
 | `git add <filename>` | add specific file with the filename |
 | `git add *.<extension>` | add supports regular expressions |
+| `git add -u` | will stage the modified and deleted files |
 
 ### Remove files:
 
