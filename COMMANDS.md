@@ -55,6 +55,7 @@ Git Command-Line Fundamentals
 | `git commit -am "This is the commit message"` | we don't need to git add separately |
 | `git commit -a` | to commit only the modified and deleted files |
 | `git commit --amend -m "new message"` | changes the last commits message & also the commit hash |
+| `git checkout <filename>` | remove all the changes made to the current file |
 
 ### Check log:
 
