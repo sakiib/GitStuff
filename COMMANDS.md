@@ -159,3 +159,12 @@ Git Command-Line Fundamentals
 | `git remote remove <short-name>` | removing url of a remote file |
 | `git remote set-url <short-name> <new.git.url>` | setting a short name for a remote url |
 | `git remote set-url origin <url>` | set a new remote origin link to the given url |
+
+### Stashing:
+
+| Command | Description |
+| ------- | ----------- |
+| `git stash list ` | see stash list(s) |
+| `git stash apply` | default take the top one 'stash@{0}' |
+| `git stash pop` | pop = apply + drop, take the top stash changes then  delete it |
+| `git stash apply stash@{1}` | get back number 2 stash changes |
