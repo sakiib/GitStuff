@@ -173,3 +173,14 @@ Git Command-Line Fundamentals
 | `git stash apply` | default take the top one 'stash@{0}' |
 | `git stash pop` | pop = apply + drop, take the top stash changes then  delete it |
 | `git stash apply stash@{1}` | get back number 2 stash changes |
+
+### Adding .gitignore:
+
+| Command | Description |
+| ------- | ----------- |
+| `* ` | is used as wildcard match |
+| `/` | is used to ignore pathnames relative to the .gitignore file |
+| `#` | is used to add comments to a .gitignore file |
+| `*.txt` | ignore all text files |
+| `git config --global core.excludesfile ~/.gitignore_global` | to add or change your global .gitignore file |
+
