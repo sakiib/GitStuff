@@ -171,9 +171,9 @@ Git Command-Line Fundamentals
 | ------- | ----------- |
 | `git stash save "appropriate_message"` | saves the work away for later use |
 | `git stash list ` | see stash list(s) |
-| `git stash apply` | default take the top one 'stash@{0}' |
+| `git stash apply` | default take the top one 'stash@{0}' but doesn't drop it |
 | `git stash pop` | pop = apply + drop, take the top stash changes then  delete it |
-| `git stash apply stash@{1}` | get back number 2 stash changes |
+| `git stash apply stash@{1}` | get back number 2 stash changes but doesn't drop it |
 
 ### Adding .gitignore:
 
