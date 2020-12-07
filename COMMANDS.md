@@ -169,6 +169,7 @@ Git Command-Line Fundamentals
 
 | Command | Description |
 | ------- | ----------- |
+| `git stash save "appropriate_message"` | saves the work away for later use |
 | `git stash list ` | see stash list(s) |
 | `git stash apply` | default take the top one 'stash@{0}' |
 | `git stash pop` | pop = apply + drop, take the top stash changes then  delete it |
