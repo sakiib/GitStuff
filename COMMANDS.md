@@ -175,6 +175,7 @@ Git Command-Line Fundamentals
 | `git stash pop` | pop = apply + drop, take the top stash changes then  delete it |
 | `git stash apply stash@{1}` | get back number 2 stash changes but doesn't drop it |
 | `git stash drop stash@{0}` | doesn't apply the changes, only drops it, any valid {ID} |
+| `git stash clear` | drops all the stashes, doesn't apply them, only drops them |
 
 ### Adding .gitignore:
 
